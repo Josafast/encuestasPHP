@@ -1,0 +1,19 @@
+{
+    "name": "josafast/polls-php",
+    "description": "Una pequeña web site para crear y contesta encuestas",
+    "type": "project",
+    "require": {
+        "symfony/dotenv": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Josafast\\Polls\\": "src/mcv/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josafat",
+            "email": "jsftqjd@gmail.com"
+        }
+    ]
+}
